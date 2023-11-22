@@ -1,1 +1,1 @@
-hi
+this is a basic personal website using github pages that has my contact, and some projects i did.
